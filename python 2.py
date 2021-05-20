@@ -1,5 +1,6 @@
 # Guessing Game
-"""secret_number = 7
+"""
+secret_number = 7
 guess_count = 3
 your_guess = 0
 
@@ -9,11 +10,13 @@ while your_guess < guess_count:
     if guess == secret_number:
         print('You have won')
         break
-    elif your_guess > guess_count:
-        print('Game Over')
-        break
-    else:
+    elif your_guess != secret_number and your_guess < guess_count:
         print('oops try again!')
+    else:
+        print('You have lost')
+
+print('Game Over')
+
 """
 
 # Car game

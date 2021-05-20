@@ -29,6 +29,8 @@ for number in numbers:
 print(max)
 
 """
+
+"""
 #2D LISTS
 
 matrix = [
@@ -42,3 +44,4 @@ for row in matrix:
     qwe = int(input('>'))
     print(matrix.index(qwe))
 
+"""

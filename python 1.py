@@ -5,30 +5,32 @@
 #first_name = "Hari"
 #is_active = True  #python is case sensitive
 
+"""
+patient_name = str(input("Give Your Name:"))
+age = int(input("Give Your Age (in numbers):"))
+new_patient = input("Are you new to the hospital?" "(True) or (False)").lower().upper()
 
-#patient_name = str(input("Give Your Name:"))
-#age = int(input("Give Your Age (in numbers):"))
-#new_patient = input("Are you new to the hospital?" "(True) or (False)")
-
-#if new_patient == "True":
- #   print("The Patient Name is:", patient_name, '.', "He is", age, "Years old")
-  #  print("He is an New Patient")
-#else:
- #   print("The Patient Name is:", patient_name, '.', "He is", age, "Years old")
-  #  print("He is an Old Patient")
-
-
-
+if new_patient == "True".lower().upper():
+    print("The Patient Name is:", patient_name, '.', "He is", age, "Years old")
+    print("He is an New Patient")
+else:
+    print("The Patient Name is:", patient_name, '.', "He is", age, "Years old")
+    print("He is an Old Patient")
+"""
 
 
 
-#name = input("What is your name")
-#print("Hello " + name)
+"""
 
-#birth_year = input("Enter Your Birth Year:")
+name = input("What is your name:")
+print("Hello " + name)
 
-#value = 2021 - int(birth_year)
-##print(value)
+birth_year = input("Enter Your Birth Year:")
+
+value = 2021 - int(birth_year)
+print(f"Your age is:{value}")
+
+"""
 """
 abc = int(input("Enter a number:"))
 xyz = int(input("Enter another number:"))
@@ -44,9 +46,11 @@ elif qwe == 'sub':
 ##course = "Python for beginners"
 ##print(course.replace('n', 's'))
 
-##course = "hari is a good boy"
-#print("hari" in course)
+"""
+course = "hari is a good boy"
+print("hari" in course)  #displays boolean value in output.
 
+"""
 
 # loops
 
