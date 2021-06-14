@@ -46,3 +46,16 @@
 # #print(calc_number(3))
 # answer = calc_number(int(input('Please enter a number to calculate: ')))
 # print(answer)
+
+
+#CALCULATOR
+
+# def my_calc(num1, num2):
+#     return num1 + num2
+#
+#
+# print(my_calc(int(input('Enter a number to calculate: ')), int(input('Enter a number to calculate: '))))
+
+
+
+

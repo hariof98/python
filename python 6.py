@@ -1,21 +1,21 @@
 # EMOJI CONVERTER
-"""
 
-message = input('>')
-word = message.split(' ')
-emojis = {
-    ':)': '😊',
-    ':(': '😔',
-    'angry': '😡'
-}
 
-output = ''
-for item in word:
-    output += emojis.get(item, item) + ' '
+# message = input('>')
+# word = message.split(' ')
+# emojis = {
+#     ':)': '😊',
+#     ':(': '😔',
+#     'angry': '😡'
+# }
+#
+# output = ''
+# for item in word:
+#     output += emojis.get(item, item) + ' '
+#
+# print(output)
+#
 
-print(output)
-
-"""
 
  # EXERCISES
 """
