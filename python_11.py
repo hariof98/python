@@ -1,3 +1,5 @@
+""" Modules Example 1 """
+
 # class MyClass:
 #     def largest_num(self):
 #         numbers = [2, 3, 100, 4, 500, 1]
@@ -11,7 +13,10 @@
 #
 # num = MyClass()
 # num.largest_num()
-#
+
+
+
+""" Modules Example 2 """
 
 
 def find_me(numbers):

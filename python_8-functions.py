@@ -1,4 +1,5 @@
-# #FUNCTIONS
+""" FUNCTIONS """
+
 # def hello_python():
 #     print('Hello world')
 #     print('How are you?')
@@ -9,7 +10,9 @@
 # print('Thank You!')
 
 
-# # Functions with parameters
+
+""" Functions with parameters """
+
 # def hello_world(name):   # name is the parameter
 #     print(f'Hello {name} ')
 #     print('Welcome aboard')
@@ -35,9 +38,12 @@
 #         ##"Always use positional arguments first and then keyword argument
 # print('Thank You')
 
-# #FUNCTION USING RETURN STATEMENTS
+
+
+""" FUNCTION USING RETURN STATEMENTS """
+
 #      #By Default all functions in Python return None
-#        #If we have a function that calculates something we can use return statement
+#      #If we have a function that calculates something we can use return statement
 #
 # def calc_number(number):
 #     return number * number
@@ -48,13 +54,6 @@
 # print(answer)
 
 
-#CALCULATOR
-
-# def my_calc(num1, num2):
-#     return num1 + num2
-#
-#
-# print(my_calc(int(input('Enter a number to calculate: ')), int(input('Enter a number to calculate: '))))
 
 
 

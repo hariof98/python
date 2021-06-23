@@ -1,5 +1,5 @@
-# # Class
-#
+""" Class """
+
 # class MyClass1:
 #     def person(self):
 #         print('hari')
@@ -7,8 +7,8 @@
 #
 # name = MyClass1()
 # name.person()
-#
-#
+
+
 # class MyClass2:              # MyClass is class name
 #     def move(self):          # move is method     (Objects are the instance of class)
 #         print('move')
@@ -20,10 +20,11 @@
 # program_2x = 20
 # print(program_1x)
 # program.move()
-#
-#
-# #Constructor in Class
-#
+
+
+
+""" Constructor in Class """
+
 # class MyClass:
 #     def __init__(self, x, y):
 #         self.x = x
@@ -34,8 +35,10 @@
 # print(person.y)
 #
 
-# # Inheritance
-#
+
+
+""" Inheritance """
+
 # class Animals:
 #     def pets(self):
 #         print('Dog')
