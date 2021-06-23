@@ -1,6 +1,8 @@
-# DICTIONARIES
-# Dictionaries are used to store data values in key:value pairs.
-# A dictionary is a collection which is ordered*, changeable and does not allow duplicates.
+""" DICTIONARIES """
+""""
+    Dictionaries are used to store data values in key:value pairs.
+    A dictionary is a collection which is ordered*, changeable and does not allow duplicates.
+"""
 
 # customer = {
 #     'name': 'Hari',
@@ -16,23 +18,21 @@
 # print(customer)
 
 
-#abc = '45'
-#print(type(abc))
 
-"""
-phone = input('Phone > ')
+""" Exercise in dictionaries """
 
-dictionary = {
-    '1': 'One',
-    '2': 'Two',
-    '3': 'Three',
-    '4': 'Four'
-}
-output = ''
-for num in phone:
-    if num > '4':
-        print('That may be beyond my abilities!')
-    else:
-     output += dictionary.get(num)
-print(output)
-"""
+# phone = input('Phone > ')
+#
+# dictionary = {
+#     '1': 'One',
+#     '2': 'Two',
+#     '3': 'Three',
+#     '4': 'Four'
+# }
+# output = ''
+# for num in phone:
+#     if num > '4':
+#         print('That may be beyond my abilities!')
+#     else:
+#      output += dictionary.get(num)
+# print(output)

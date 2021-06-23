@@ -1,5 +1,4 @@
-# EMOJI CONVERTER
-
+""" EMOJI CONVERTER """
 
 # message = input('>')
 # word = message.split(' ')
@@ -17,28 +16,22 @@
 #
 
 
- # EXERCISES
-"""
-num = -1
-while num < 11:
-    num += 1
-    print(num)
-"""
-"""
-i = 0
 
-while i < 6:
-    print(i * '*')
-    i += 1
-"""
-"""
-user = int(input('>'))
-if user == 10:
-    print('55')
-"""
-"""
-list1 = [10, 20, 30, 40, 50]
-list1.reverse()
-print(list)
+""" Warm Up Exercises """
 
-"""
+# num = -1
+# while num < 11:
+#     num += 1
+#     print(num)
+
+
+# i = 0
+# while i < 6:
+#     print(i * '*')
+#     i += 1
+
+
+# list1 = [10, 20, 30, 40, 50]
+# list1.reverse()
+# print(list1)
+
