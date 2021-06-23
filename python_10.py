@@ -1,4 +1,5 @@
 """ Class """
+""" Class name should be in CamelCase if two words are used"""
 
 # class MyClass1:
 #     def person(self):
