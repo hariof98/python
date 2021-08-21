@@ -11,7 +11,7 @@
 
 
 # class MyClass2:              # MyClass is class name
-#     def move(self):          # move is method     (Objects are the instance of class)
+#     def move(self):          # move is method    (Objects are the instance of class)
 #         print('move')
 #
 #
