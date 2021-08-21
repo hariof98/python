@@ -30,13 +30,14 @@
 #     print(f'Hello, {last_name} {first_name} ')
 #     print('Welcome aboard')
 #     print('Stay safe')
-#
-#
+#     print('Thank You')
+#     exit()
+
+
 # print('Greetings')
 # hello_world("Hari", "Sridhar")  # these 2 arguments are called positional arguments
 # hello_world(last_name="Sridhar", first_name="Hari")  # this is called keyword argument (It is used to improve the readability of the code,especially if we want to declare multiple numeric values.
-#         ##Always use positional arguments first and then keyword argument
-# print('Thank You')
+#         #Always use positional arguments first and then keyword argument
 
 
 
