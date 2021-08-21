@@ -1,6 +1,6 @@
 """ List """
 
-# names = ['hari', 'hrishi', 'rahul', 'usha', 'balaji', 'sri']
+# names = ['jon', 'rob', 'ned', 'jaimie', 'tyrion', 'sansa']
 # names[0] = 'HARI'
 # print(names)
 # print(names[1])

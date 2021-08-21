@@ -41,7 +41,7 @@
 
 """ lists """
 
-# names = ["hari", "united", "yuvs", "ios"]
+# names = ["hari", "android", "yuvs", "ios"]
 # print(names[0])
 #
 # number = [1, 2, 3, 4, 5, 6]
